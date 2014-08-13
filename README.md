@@ -6,7 +6,7 @@
 - Phone: 15967127157
 - Email: unicodeascii@163.com
 - Github: https://github.com/wngyongbin
-- 在线简历地址：
+- 在线简历地址：https://github.com/wngyongbin/resume
 
 ### 简介
 2010年开始从事iOS开发. 热爱技术，喜欢写代码. 对工作有激情.  
